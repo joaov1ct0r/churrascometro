@@ -5,7 +5,7 @@
 <p>Projeto churrascometro criado no curso do ProgramadorBR, o projeto consiste em calcular a quantidade de carne e bebidas necessarias para um churrasco baseado na duração e quantidade de pessoas no churrasco.</p>
 
 <h2>Link</h2>
-https://joaov1ct0r.github.io/churrascometro-ProgBR/
+<a href='https://joaov1ct0r.github.io/churrascometro-ProgBR/'>CHURRASCOMETRO</a>
 
 <h2>Picture</h2>
 
